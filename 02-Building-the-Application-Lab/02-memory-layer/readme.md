@@ -8,6 +8,13 @@
 
 ![images](./images/banner.png)
 
+## What You Need Before Starting
+
+- Lesson 1 finished, with your app running at `http://localhost:3000` and able to upload and analyze a contract
+- 20–30 minutes
+
+---
+
 ## Where We Are
 
 By this point you have:

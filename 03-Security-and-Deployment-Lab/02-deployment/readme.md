@@ -8,6 +8,14 @@
 
 ![images](./images/51.png)
 
+## What You Need Before Starting
+
+- Lesson 1 finished
+- A free **Netlify account** — you'll create one in the steps below, no signup needed in advance
+- 20–30 minutes, plus a couple of short waits while things build
+
+---
+
 ## Where We Are
 
 By this point you have:

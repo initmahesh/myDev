@@ -2,6 +2,8 @@
 
 **Part 2 of 3** in the ContractIQ build path: [Lab 1: Planning](../01-Planning-and-Architecture-Lab/readme.md) → [Lab 2: Building](./readme.md) → [Lab 3: Security & Deployment](../03-Security-and-Deployment-Lab/readme.md)
 
+> **Lost on a word?** Every term used in this lab (database, API key, environment variable, `npm run dev`, and more) is defined in plain English in the [Getting Started Glossary](../00-Getting-Started/readme.md#glossary--every-term-used-in-this-course).
+
 ---
 
 This is the **"make it real"** lab. You take the engineering plan from Lab 1 and turn it into a running application: a Next.js frontend, a Supabase database with authentication, an AI-powered backend, and a chat interface that actually remembers what was said five minutes ago.

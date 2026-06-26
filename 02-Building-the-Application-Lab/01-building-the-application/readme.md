@@ -8,6 +8,17 @@
 
 ![images](./images/banner.png)
 
+## What You Need Before Starting
+
+- All of Lab 1 finished, with `docs/engineering/engineering-doc.md` and `docs/engineering/implementation-specs.md` present in your project
+- A free **Supabase account** — you'll create one in the first few steps below, no signup needed in advance
+- A free **OpenAI account with an API key** — go to [platform.openai.com](https://platform.openai.com/), sign up, and create a key under **API keys** in the left sidebar; you'll paste it into a file in this lesson
+- 45–60 minutes — this is the longest lesson in the course
+
+> **New word alert:** "API key" and "environment variable" both come up a lot in this lesson. If either one is unfamiliar, the [Glossary](../../00-Getting-Started/readme.md#glossary--every-term-used-in-this-course) explains both in one sentence each.
+
+---
+
 ## Where We Are
 
 By this point you have completed **Lab 1 — Planning & Architecture**:

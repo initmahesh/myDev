@@ -8,6 +8,16 @@
 
 ![images](./images/banner.png)
 
+## What You Need Before Starting
+
+- Lesson 1 finished — you should have the `dev-os` folder open in VS Code
+- Nothing new to install — this lesson is mostly reading and exploring files
+- About 10 minutes
+
+This lesson is hands-off — no typing into Claude Code yet. You're just opening files and understanding what's already there before you start using it in Lesson 3.
+
+---
+
 ## What Are Claude Code Skills?
 
 Every time you open a new conversation with Claude, it starts completely fresh — no memory of your decisions, your style choices, or your rules.
