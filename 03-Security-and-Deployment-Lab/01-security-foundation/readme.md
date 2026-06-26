@@ -11,6 +11,13 @@
      the checklist of issues being found and fixed.
 ![images](./images/banner.png) -->
 
+## What You Need Before Starting
+
+- All of Lab 2 finished, with your app running locally and working end to end
+- 15–20 minutes — this lesson is one prompt and a review, not new building
+
+---
+
 ## Where We Are
 
 By this point you have completed **Lab 1 — Planning & Architecture** and **Lab 2 — Building the Application**:

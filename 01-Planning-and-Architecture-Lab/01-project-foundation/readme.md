@@ -8,6 +8,16 @@
 
 ![images](./images/banner.png)
 
+## What You Need Before Starting
+
+- A free **GitHub account** (sign up at [github.com/signup](https://github.com/signup) if you don't have one)
+- **Git** and **VS Code** installed — see [Getting Started](../../00-Getting-Started/readme.md) if you skipped that
+- About 15 minutes
+
+If any word below (terminal, fork, clone, repository) is unfamiliar, check the [Glossary in Getting Started](../../00-Getting-Started/readme.md#glossary--every-term-used-in-this-course) — every term in this course is defined there in plain English.
+
+---
+
 ## The Problem We Are Solving
 
 Picture a founder at a 20-person SaaS company. A potential enterprise client sends over a 30-page Master Service Agreement. She needs to sign it by end of week. She has no in-house lawyer, so she either spends 90–120 minutes reading every clause herself, or she pays $400 for an hour of legal time to get a summary she barely understands.
@@ -28,9 +38,9 @@ The tool does not replace a lawyer for high-stakes situations. It gives people e
 
 ## Step 1 — Fork the Starter Repository
 
-We are not starting from a blank folder. A starter repository has already been set up with the project structure, configuration files, and workflow rules you will need throughout this course.
+We are not starting from a blank folder. Somebody has already set up a starter project — folders, settings, and rules — that you'll build on top of, instead of starting from nothing.
 
-Go to this URL in your browser: [https://github.com/sachin0034-tech/dev-os](https://github.com/sachin0034-tech/dev-os)
+Open your web browser and go to this address: [https://github.com/sachin0034-tech/dev-os](https://github.com/sachin0034-tech/dev-os)
 
 ![images](./images/1.png)
 
@@ -46,17 +56,19 @@ Forking creates your own copy of the repository under your GitHub account. This 
 
 ## Step 2 — Clone Your Fork to Your Computer
 
-Once the fork is created, GitHub will take you to your copy of the repository. Click the green **Code** button, make sure **HTTPS** is selected, and copy the URL shown.
+Once the fork is created, GitHub takes you to your copy of the repository. Click the green **Code** button, make sure **HTTPS** is selected, and click the little copy icon next to the web address shown — this copies that address so you can paste it in the next step.
 
 ![images](./images/4.png)
 
-Open your terminal and run:
+Open a terminal (see [Getting Started](../../00-Getting-Started/readme.md#opening-a-terminal-inside-vs-code) if you're not sure how) and type the following, but **replace the placeholder with the address you just copied**:
 
 ```bash
 git clone <paste the URL you copied here>
 ```
 
-Cloning downloads the repository from GitHub onto your local machine. From this point on, you work on the local copy and push changes back to GitHub when you are ready.
+For example, if your copied address were `https://github.com/yourname/dev-os.git`, you'd type `git clone https://github.com/yourname/dev-os.git` and press **Enter**.
+
+This downloads ("clones") the repository from GitHub onto your own computer, into a new folder called `dev-os`. From this point on, you work on this local copy and push changes back up to GitHub when you're ready.
 
 ![images](./images/5.png)
 

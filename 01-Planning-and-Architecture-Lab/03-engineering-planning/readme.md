@@ -8,6 +8,14 @@
 
 ![images](./images/banner.png)
 
+## What You Need Before Starting
+
+- Lessons 1 and 2 finished
+- Claude Code installed and able to run (`claude` in a terminal opens it) — see [Getting Started](../../00-Getting-Started/readme.md) if not
+- 20–30 minutes, most of it spent waiting for Claude to think — you don't need to actively do anything during that time
+
+---
+
 ## Where We Are
 
 By this point you have:

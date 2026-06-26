@@ -2,13 +2,23 @@
 
 **Part 1 of 3** in the ContractIQ build path: [Lab 1: Planning](./readme.md) → [Lab 2: Building the Application](../02-Building-the-Application-Lab/readme.md) → [Lab 3: Security & Deployment](../03-Security-and-Deployment-Lab/readme.md)
 
+> **New here?** Make sure you've finished **[Getting Started](../00-Getting-Started/readme.md)** first — it gets your tools installed and explains every term used below. Any word that confuses you in this lab is probably in that page's glossary.
+
 ---
 
-This is the **"think before you build"** lab. No application code gets written here. By the end of this lab you will have forked a starter repository, understood the problem you're solving, learned how Claude Code's reusable instruction sets ("skills") and design system work, defined your tech stack, and turned a product idea into a concrete, file-by-file engineering plan.
+## What This Lab Is, In Plain Words
 
-If you skip this lab and go straight to coding, you end up improvising the database schema halfway through building a screen, or discovering a missing feature three files deep into implementation. This lab exists so that doesn't happen.
+This is the **"think before you build"** lab. You will not write or generate any application code here. Instead you'll:
 
-No prior AI development or software engineering experience is required. Every step is written assuming this is the first time you've done it.
+- Understand the actual problem you're solving and who it's for
+- Get your own copy of a ready-made starter project
+- Learn how Claude Code's reusable instructions ("skills") work
+- Look at the colors/fonts/spacing rules ("design system") the app will follow
+- Turn the product idea into a written, step-by-step build plan
+
+Think of this lab as drawing the blueprint before anyone picks up a hammer. Skipping it doesn't save time — it just moves the confusion to later, when it's more expensive to fix (e.g. realizing halfway through building a screen that the database is missing a piece of information it needed all along).
+
+No prior coding or AI experience is required. Every step assumes this is the first time you've done it.
 
 ---
 

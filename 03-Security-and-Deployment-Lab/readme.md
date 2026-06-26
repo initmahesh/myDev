@@ -2,6 +2,8 @@
 
 **Part 3 of 3** in the ContractIQ build path: [Lab 1: Planning](../01-Planning-and-Architecture-Lab/readme.md) → [Lab 2: Building](../02-Building-the-Application-Lab/readme.md) → [Lab 3: Security & Deployment](./readme.md)
 
+> **Lost on a word?** Every term used in this lab is defined in plain English in the [Getting Started Glossary](../00-Getting-Started/readme.md#glossary--every-term-used-in-this-course).
+
 ---
 
 This is the **"make it safe to ship"** lab. Your app already works on `http://localhost:3000` — that's the easy part. This lab covers everything that has to happen *after* local development before real users can touch it: scanning for the security mistakes every fast-moving build accumulates, then pushing the code to GitHub and deploying it live.
